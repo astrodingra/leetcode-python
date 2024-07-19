@@ -4,9 +4,10 @@ Welcome to my repository where I upload solutions to LeetCode problems that I ha
 
 ## Solutions
 
-| Problem Number | Problem Name      | Solution Link                   |
-|----------------|-------------------|---------------------------------|
-| 1              | Two Sum           | [Solution](two_sum.py) |
+| Problem Number | Problem Name      | Solution Link                   | Difficulity |
+|----------------|-------------------|---------------------------------|-------------|
+| 1              | Two Sum           | [Solution](two_sum.py) |Easy|
+| 9              | Palindrome Number | [Solution](palindrome_number.py) |Easy|
 <!-- Add more rows as you solve more problems -->
 
 ## How to Use
