@@ -9,7 +9,7 @@ Welcome to my repository where I upload solutions to LeetCode problems that I ha
 | 1              | Two Sum           | [Solution](two_sum.py) |Easy|
 | 9              | Palindrome Number | [Solution](palindrome_number.py) |Easy|
 <!-- Add more rows as you solve more problems -->
-# LeetCode Progress
+###### LeetCode Progress
 
 ![LeetCode Easy](https://img.shields.io/badge/LeetCode%20Easy-2-green)
 ![LeetCode Medium](https://img.shields.io/badge/LeetCode%20Medium-0-orange)
