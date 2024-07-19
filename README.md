@@ -11,9 +11,9 @@ Welcome to my repository where I upload solutions to LeetCode problems that I ha
 <!-- Add more rows as you solve more problems -->
 # LeetCode Progress
 
-![LeetCode Easy](https://img.shields.io/badge/LeetCode%20Easy-200-blue)
-![LeetCode Medium](https://img.shields.io/badge/LeetCode%20Medium-300-yellow)
-![LeetCode Hard](https://img.shields.io/badge/LeetCode%20Hard-100-red)
+![LeetCode Easy](https://img.shields.io/badge/LeetCode%20Easy-2-green)
+![LeetCode Medium](https://img.shields.io/badge/LeetCode%20Medium-0-orange)
+![LeetCode Hard](https://img.shields.io/badge/LeetCode%20Hard-0-red)
 
 
 ## How to Use
