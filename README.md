@@ -1,7 +1,7 @@
 # LeetCode Solutions in Python
 
 Welcome to my repository where I upload solutions to LeetCode problems that I have solved in Python. I will be updating this repository with new solutions as I complete more problems.
-
+Refer for problems : https://www.leetcode.com
 ## Solutions
 
 | Problem Number | Problem Name      | Solution Link                   | Difficulity | My Prespective |
